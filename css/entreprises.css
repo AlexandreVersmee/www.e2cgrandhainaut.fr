@@ -1,0 +1,117 @@
+h4
+{ 
+	border-radius		:	10px;
+}
+
+table
+{
+	border-collapse		:	separate;
+	font-family			:	inherit;
+	font-weight			:	normal;
+	line-height			:	1.6;
+	margin-bottom		:	1.25em;
+	text-rendering		:	optimizelegibility;
+	border				:	none;
+	background			:	none !important;
+}
+
+.name_link_cv
+{
+	font-size			:	1.300em;
+	font-weight 		: 	bold;
+	text-align 			:	center; 	
+}
+
+.achievement
+{
+	font-weight			:	bold;
+}
+
+.middle_text
+{
+	text-align			:	center;
+	font-size			:	1.300em;
+	font-weight			:	bold;
+	color				:	#EC6D2B;
+}
+
+.partnership_bg,
+.recieve_bg,
+.report_bg,
+.accompany_bg,
+.finance_bg
+{
+	padding				:	2px 15px;
+	border-radius		:	10px;
+}
+
+.partnership_border
+{
+	border-left			:	5px solid #EC6D2B;
+	padding-left		:	10px;
+}
+.partnership
+{
+	color				:	white;
+	text-align			:	center;
+}
+.partnership_bg
+{
+	background			:	#EC6D2B;
+}
+
+.recieve_border
+{
+	border-left			:	5px solid #a5b92d;
+	padding-left		:	10px;
+}
+.recieve
+{
+	color				:	white;
+}
+.recieve_bg
+{
+	background			:	#a5b92d;
+}
+
+.report_border
+{
+	border-left			:	5px solid #EC6D2B;
+	padding-left		:	10px;
+}
+.report
+{
+	color				:	white;
+}
+.report_bg
+{
+	background			:	#EC6D2B;
+}
+
+.accompany_border
+{
+	border-left			:	5px solid #C22981;
+	padding-left		:	10px;
+}
+.accompany
+{
+	color				:	white;
+}
+.accompany_bg
+{
+	background			:	#C22981;
+}
+
+.finance_border
+{
+	border-left			:	5px solid #009FD8;
+	padding-left		:	10px;
+}
+.finance
+{
+	color				:	white;
+}
+.finance_bg
+{
+	background			:	#009FD8;
+}

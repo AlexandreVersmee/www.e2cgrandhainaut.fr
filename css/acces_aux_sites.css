@@ -1,0 +1,39 @@
+@media screen and (min-width: 48em)
+{
+	.anzin_bloc
+	{
+		border-right	: 	3px dotted #009FD8;
+		margin-right	:	30px;
+	}	
+}
+
+@media screen and (max-width: 48em)
+{
+	.anzin_bloc
+	{
+		border-bottom	: 	3px dotted #009FD8;
+		margin-bottom	:	20px;
+	}	
+}
+
+.line_space_unordered_list
+{
+	line-height			:	0px;
+}
+
+.list_path
+{
+	margin-left			:	15px;
+	list-style			:	square url("../images/icones/circle_blue-10.png");
+	list-style-position	:	inside;
+}
+
+.path
+{
+	padding-right		:	5px;
+}
+
+.title_site
+{
+	color				:	#EC6D2B;
+}

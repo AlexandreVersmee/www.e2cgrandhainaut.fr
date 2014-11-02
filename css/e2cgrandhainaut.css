@@ -1,0 +1,100 @@
+.lists
+{
+	margin-left			:	15px;
+	list-style			:	square url("../images/icones/circle_blue-10.png");
+	list-style-position	:	inside;
+}
+
+.items
+{
+	padding-right		:	5px;
+}
+
+.hire_bg,
+.peda_concept_bg,
+.purpose_bg,
+.dyna_multi_bg,
+.funders_bg
+{
+	padding				:	2px 15px;
+	border-radius		:	10px;
+}
+
+.hire_h4
+{
+	color				:	white;
+}
+
+.hire_bg
+{
+	background			:	#C22981;
+}
+
+.peda_concept_h4
+{
+	color				:	white;
+}
+
+.peda_concept_bg
+{
+	background			:	#a2a2ac;
+}
+
+.purpose_h4
+{
+	color				:	white;
+}
+
+.purpose_bg
+{
+	background			:	#EC6D2B;
+}
+
+.dyna_multi_h4
+{
+	color				:	white;
+}
+
+.dyna_multi_bg
+{
+	background			:	#009FD8;
+}
+
+.funders_h4
+{
+	color				:	white;
+}
+
+.funders_bg
+{
+	background			:	#a5b92d;
+}
+
+.insterested
+{
+	list-style			:	square url("../images/icones/arrow_puce.png");
+	list-style-position	:	inside;
+}
+
+
+#tothetop
+{
+	background-image 	:	url(../images/icones/arrow_up.jpg);
+	height				:	34px; 
+	width				:	34px;
+	display				:	none;
+	margin-right		:	5%;
+	position			:	fixed;
+	right				:	0px;
+}
+
+#tothetop:hover
+{
+	background-image 	:	url(../images/icones/arrow_up_over.jpg);
+}
+
+.link_team
+{
+	font-size 			: 	1.300em;
+	font-weight 		: 	bold;	
+}

@@ -1,0 +1,39 @@
+#navigation_div
+{
+	background-color	:	rgba(256, 256, 256, 0.825);
+	padding-bottom		:	20px;
+}
+
+.nav_h4_grand_hainaut
+{
+	padding-top			:	10px;
+	margin-bottom		:	-1px;
+	color				:	#a5b92d;
+	padding-left		:	10px;
+	border-left			:	3px solid #a5b92d;
+}
+.nav_h4_e2c_france
+{
+	padding-top			:	10px;
+	margin-bottom		:	-1px;
+	color				:	#EC6D2B;
+	padding-left		:	10px;
+	border-left			:	3px solid #EC6D2B;
+}
+.nav_h4_students
+{
+	padding-top			:	10px;
+	margin-bottom		:	-1px;
+	color				:	#C22981;
+	padding-left		:	10px;
+	border-left			:	3px solid #C22981;
+}
+
+.nav_h4_enterprise
+{
+	padding-top			:	10px;
+	margin-bottom		:	-1px;
+	color				:	#009FD8;
+	padding-left		:	10px;
+	border-left			:	3px solid #009FD8;
+}

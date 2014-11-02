@@ -1,0 +1,108 @@
+.what_is_bg,
+.indiv_course_bg,
+.intership_bg,
+.standard_training_bg
+{
+	padding				:	2px 15px;
+	border-radius		:	10px;	
+}
+
+.what_is_h4
+{
+	color				:	white;
+}
+.what_is_text
+{
+	color				:	#009FD8 ;
+	text-decoration		:	justify;
+	font-weight			:	bold;
+}
+.what_is_tab
+{
+	border-left			:	3px solid #009FD8 ;
+	padding-left		:	10px;
+}
+.what_is_bg
+{
+	background			:	#009FD8;
+}
+
+.indiv_course_h4
+{
+	color				:	white;
+}
+.indiv_course_text
+{
+	color				:	#a5b92d;
+	font-weight			:	bold;
+}
+.indiv_course_tab
+{
+	border-left			:	3px solid #a5b92d;
+	padding-left		:	10px;
+}
+.indiv_course_bg
+{
+	background			:	#a5b92d;
+}
+
+.intership_h4
+{
+	color				:	white;
+}
+.intership_text
+{
+	color				:	#EC6D2B;
+	font-weight			:	bold;
+}
+.intership_tab
+{
+	border-left			:	3px solid #EC6D2B;
+	padding-left		:	10px;
+}
+.intership_bg
+{
+	background			:	#EC6D2B;
+}
+
+.standard_training_h4
+{
+	color				:	white;
+}
+.standard_training_text
+{
+	color				:	#C22981;
+	font-weight			:	bold;
+}
+.standard_training_tab
+{
+	border-left			:	3px solid #C22981;
+	padding-left		:	10px;
+}
+.standard_training_bg
+{
+	background			:	#C22981;
+}
+
+.name_link_quizz
+{
+	font-size			:	1.300em;
+	font-weight 		: 	bold;
+	text-align 			:	center; 	
+}
+
+#tothetop
+{
+	background-image 	:	url(../images/icones/arrow_up.jpg);
+	height				:	34px; 
+	width				:	34px;
+	display				:	none;
+	margin-right		:	5%;
+	position			:	fixed;
+	right				:	0px;
+}
+
+#tothetop:hover
+{
+	background-image 	:	url(../images/icones/arrow_up_over.jpg);
+}

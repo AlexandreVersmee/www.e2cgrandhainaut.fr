@@ -1,0 +1,27 @@
+#mail_phone
+{
+	border-bottom		:	3px dotted #009FD8;
+}
+
+@media screen and (min-width: 48em)
+{
+	.anzin
+	{
+		border-right	: 	3px dotted #009FD8;
+		margin-right	:	30px;
+	}	
+}
+
+@media screen and (max-width: 48em)
+{
+	.anzin
+	{
+		border-bottom	: 	3px dotted #009FD8;
+		margin-bottom	:	20px;
+	}	
+}
+
+.communication
+{
+	color				:	#EC6D2B;
+}
