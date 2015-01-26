@@ -20,6 +20,12 @@
 		<div class="row">
 			<div class="large-12 columns">
 				<ul data-orbit>
+					<li><img src="images/slider/Ecole_deuxieme_chance_grand_hainaut_voeux_2015.jpg" title="Bonne année 2015 !" alt="Bonne année 2015 !" />
+					</li>
+				
+					<li><img src="images/slider/bandeau_taxe_apprentissage.jpg" title="Pensez à la Taxe d'Apprentissage 2015 !" alt="Pensez à la Taxe d'Apprentissage 2015 !" />
+					<div class="orbit-caption" style="font-size:0.965em;">Contribuez à la réussite de nos jeunes ! &nbsp;&nbsp;<a href="fiches/fiche_engagement_versement_ta.pdf" target="_blank" class="ta">Cliquez ici pour vous engager avec nous !</a></div></li>
+
 					<li><img src="images/slider/porte_ouverte_anzin.jpg" title="Porte Ouverte Anzin - Mai 2014" alt="Photo porte Ouverte Anzin - Mai 2014" /><div class="orbit-caption">Portes ouvertes Anzin - Mai 2014 / Joli mois de l'Europe en Nord-Pas-de Calais</div></li>
 					
 					<li><img src="images/slider/signature_partenariat.jpg" title="Signature de la convention de partenariat « DEFIS POUR L’EMPLO I » entre l’E2C Grand Hainaut et Toyota »" alt="Signature de la convention de partenariat « DEFIS POUR L’EMPLO I » entre l’E2C Grand Hainaut et Toyota »" /><div class="orbit-caption"  style="font-size:0.965em;">Signature de la convention de partenariat « DEFIS POUR L’EMPLO I » entre l’E2C Grand Hainaut et Toyota »</div></li>

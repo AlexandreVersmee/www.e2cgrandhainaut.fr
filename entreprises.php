@@ -41,7 +41,7 @@
 						<tr>
 							<td class="recieve_border" ><span class="green" ><strong class="bold" >■ Stage</strong></span>
 							<br /> 
-							De la découverte de l’entreprise, d’un métier à l’acquisition de compétences, des périodes d’immersion en entreprise de 1 à 3 semaines à temps plein sont prévues régulièrement afin d’amener le jeune à conforter son projet professionnel puis à développer les savoir-être et savoir-faire nécessaires à son insertion durable dans le monde du travail.
+							De la découverte de l’entreprise, d’un métier à l’acquisition de compétences, des périodes d’immersion en entreprise de 1 à 4 semaines à temps plein sont prévues régulièrement afin d’amener le jeune à conforter son projet professionnel puis à développer les savoir-être et savoir-faire nécessaires à son insertion durable dans le monde du travail.
 							</td>	
 						</tr>
 						<tr>
@@ -104,8 +104,8 @@
 						<tr>
 							<td><span class="blue bold" >■ Taxe d’apprentissage</span>
 							<br /> 
-							Vous pouvez participer à l’effort d’intégration de nos jeunes, au développement et à la pérennité de notre <strong>Ecole</strong> en reversant sur la partie « hors-quota » de la catégorie A et par cumul la catégorie B, votre prochaine taxe d’apprentissage.
-							</td>	
+							Vous pouvez participer à l’effort d’intégration de nos jeunes, au développement et à la pérennité de notre Ecole en reversant <span class="bold">sur la partie « hors-quota » dans la catégorie des "Activités Complémentaires"</span>, votre prochaine taxe d’apprentissage.
+							<br><a href="fiches/fiche_engagement_versement_ta.pdf" target="_blank" class="ta">Cliquez ici pour vous engager avec nous !</a>
 						</tr>
 						<tr>
 							<td><span class="blue bold" >■ Adhésion à l’Association « E2C Grand Hainaut »</span> 
