@@ -4178,20 +4178,18 @@ a.th {
 	background				:	rgba(255, 255, 255, 0.7);
 }
 
-#logo_e2c_france
+/*#logo_e2c_france
 {
 	max-width				:	75px;
 	min-width				:	58px;
     vertical-align  		:	middle;
-}
+}*/
 
-@media screen and (min-width: 48em)
-{
-	#div_headband_financer
+/* Small Screen (max-width 640px) */
+@media only screen and (max-width : 40em) {
+	.div_headband_financer
 	{
-		position			:	float;
-		float				:	right;
-		text-align			:	right;
+		text-align			:	center;
 	}	
 	.slogan
 	{
@@ -4216,30 +4214,46 @@ a.th {
 {
 	padding-right			:	5px;
 	padding-left			:	5px;
-	padding-bottom 			:	25px;
-	max-width				:	75px;
-	min-width				:	58px;
+	/*padding-bottom 			:	25px;*/
+	max-width				:	55px;
+	min-width				:	40px;
+  
 }
 
 .img_headband_financer-npdc
 {
     padding-right			:	5px;
     padding-left			:	5px;
-    padding-bottom 			:	25px;
+    /*padding-bottom 			:	25px;*/
     max-width				:	170px;
     min-width				:	58px
 }
 
-@media only screen and (min-width : 40.063em) and (max-width : 64em) {
+
+/* Medium Screen (min-width 641px and max 1024px) */
+@media only screen and (min-width : 40.063em) /*and (max-width : 64em)*/
+{
     .img_headband_financer-npdc
     {
         padding-right			:	5px;
         padding-left			:	5px;
-        padding-bottom 			:	25px;
+        /*padding-bottom 			:	25px;*/
         max-width				:	132px;
         min-width				:	58px
     }
+      .div_headband_financer
+  {
+    /*text-align      : right;*/
+  }
 }
+/* Large Screen (min-width 1025px) */
+@media only screen and (min-width : 60.063em) {
+    .div_headband_financer
+    {
+       /* text-align      : right;*/
+    }
+}
+
 .bold
 {
 	font-weight				:	bold;

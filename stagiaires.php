@@ -28,7 +28,8 @@
 				
 				<h4 class="indiv_course_h4" ><span class="indiv_course_bg">Un parcours individualisé</span></h4>
 
-				<p class="indiv_course_tab" >Une équipe de formateurs vous accompagne, pas à pas, pendant les <span class="indiv_course_text" >9 mois</span> de votre parcours à l’<strong>Ecole</strong> de la Deuxième Chance, dans la construction de votre <span class="indiv_course_text" >projet professionnel</span> et dans une nécessaire <span class="indiv_course_text" >remise à niveau</span> (notamment en français, en mathématiques et en informatique).<br />Un suivi <span class="indiv_course_text" >post-parcours jusque 24 mois</span> est mis en place également.</p>
+				<p class="indiv_course_tab" >Une équipe de formateurs vous accompagne, pas à pas, pendant les <span class="indiv_course_text" >9 mois</span> de votre parcours à l’<strong>Ecole</strong> de la Deuxième Chance, dans la construction de votre <span class="indiv_course_text" >projet professionnel</span> et dans une nécessaire <span class="indiv_course_text" >remise à niveau</span> (notamment en français, en mathématiques et en informatique).<br />Un suivi <span class="indiv_course_text" >post-parcours jusque 24 mois</span> est mis en place également.
+				<br/><img src="images/icones/action_arrow_mini.png" /> <span class="grey bold" >Cliquez pour consulter le réglement intérieur des stagiaires :</span> <a target="_blank" href="fiches/fiche_reglement_stagiaires_e2c_grandhainaut.pdf" title="Téléchargement du réglement intérieur des stagiaires de l'E2C Grand Hainaut" /><img src="images/icones/pdf_32.png" title="Téléchargement du réglement intérieur des stagiaires de l'E2C Grand Hainaut" alt="Logo de pdf" /></a>
 
 				<h4 class="intership_h4" ><span class="intership_bg">Une alternance <strong class="bold">école</strong> / entreprise</span></h4>
 
@@ -40,10 +41,10 @@
 				<span class="standard_training_text" >Les inscriptions se font toute l’année</span> et les intégrations tous les mois pour le site d'Anzin et tous les 2 mois pour le site de Maubeuge.</p>
 
 
-				<p class="bold maj" ><img src="images/icones/action_arrow.png" />Pour vous inscrire, télécharger et compléter l'une des fiches suivantes :</p>
+				<p class="bold maj" ><img src="images/icones/action_arrow.png" />Pour vous inscrire, téléchargez et complétez l'une des fiches suivantes :</p>
 				<ul class="list_contact" >
-					<li class="contact" ><span class="bold maj" ><strong class="bold">Anzin</strong> <a target="_blank" href="fiches/fiche_positionnement_stagiaires_anzin.pdf" title="Téléchargement de la fiche d'inscription d'Anzin - E2C Grand Hainaut" /><img src="images/icones/pdf_32.png" title="Téléchargement de la fiche d'inscription d'Anzin - E2C Grand Hainaut" alt="Logo de Microsoft Word" /></a> puis contacter Delphine SALENGROS - Tél: 03 27 23 07 90 </span></li>
-					<li class="contact" ><span class="bold maj" ><strong class="bold">Maubeuge</strong> <a target="_blank" href="fiches/fiche_positionnement_stagiaires_maubeuge.pdf" title="Téléchargement de la fiche d'inscription de Maubeuge - E2C Grand Hainaut" /><img src="images/icones/pdf_32.png" title="Téléchargement de la fiche d'inscription de Maubeuge - E2C Grand Hainaut" alt="Logo de Microsoft Word" /></a> puis contacter Lydie CHERMEUX - Tél: 03 27 39 36 10</span></li>
+					<li class="contact" ><span class="bold maj" ><strong class="bold">Anzin</strong> <a target="_blank" href="fiches/fiche_positionnement_stagiaires_anzin.pdf" title="Téléchargement de la fiche d'inscription d'Anzin - E2C Grand Hainaut" /><img src="images/icones/pdf_32.png" title="Téléchargement de la fiche d'inscription d'Anzin - E2C Grand Hainaut" alt="Logo de Microsoft Word" /></a> puis contactez Delphine SALENGROS et Frédérique AGNIERAY - Tél: 03 27 23 07 90 </span></li>
+					<li class="contact" ><span class="bold maj" ><strong class="bold">Maubeuge</strong> <a target="_blank" href="fiches/fiche_positionnement_stagiaires_maubeuge.pdf" title="Téléchargement de la fiche d'inscription de Maubeuge - E2C Grand Hainaut" /><img src="images/icones/pdf_32.png" title="Téléchargement de la fiche d'inscription de Maubeuge - E2C Grand Hainaut" alt="Logo de Microsoft Word" /></a> puis contactez Lydie CHERMEUX - Tél: 03 27 39 36 10</span></li>
 				</ul>	
 			</div>
 			<span id="tothetop" ></span>

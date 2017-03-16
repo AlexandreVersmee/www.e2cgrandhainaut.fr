@@ -1,5 +1,6 @@
 .position_avatar
 {
+	min-width: 145px;
 	text-align		:	center;
 	padding-left	:	10px;
 	padding-top		:	10px;

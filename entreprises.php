@@ -22,7 +22,7 @@
 				<table>
 					<tbody>
 						<tr>
-							<td class="partnership_border" ><span class="orange" >Elle est déterminante dans la <span class="achievement" >réussite du jeune</span> dans son parcours à l’E2C.</span><br />
+							<td class="partnership_border" ><span class="orange" >Elle est déterminante pour la <span class="achievement" >réussite du jeune</span>.</span><br />
 							La structuration de son projet professionnel doit s’appuyer sur une confrontation directe et régulière avec la réalité du monde du travail.
 							Visiter une entreprise, s’informer sur les métiers, valider les représentations de ces métiers lors de <strong>stages</strong>, ... sont autant d’étapes qui permettront au jeune de conforter son projet tout au long de sa <strong>formation</strong> et ainsi optimiser son insertion professionnelle.
 							</td>	
@@ -74,7 +74,7 @@
 					<tbody>
 						<tr>
 							<td><span class="purple bold" >■ Participation aux jurys de l’E2C</span><br />
-							<span style="color:#2597b6;"><img src="images/icones/action_arrow_mini.png" /> Pour vous inscrire, télécharger le bulletin de participation aux jurys <a href="fiches/fiche_jury_anzin.pdf" target="_blank" ><img src="images/icones/pdf_32.png" title="Télécharger le bulletin de participation aux jurys d'Anzin" alt="Lien de téléchargement du bulletin de participation aux jurys d'Anzin" /> Anzin </a><a href="fiches/fiche_jury_maubeuge.pdf" target="_blank"><img src="images/icones/pdf_32.png" title="Télécharger le bulletin de participation aux jurys de Maubeuge" alt="Lien de téléchargement du bulletin de participation aux jurys de Maubeuge" /> Maubeuge </a></span><br />
+							<span style="color:#2597b6;"><img src="images/icones/action_arrow_mini.png" /> Pour vous inscrire, téléchargez le bulletin de participation aux jurys <a href="fiches/fiche_jury_anzin.pdf" target="_blank" ><img src="images/icones/pdf_32.png" title="Télécharger le bulletin de participation aux jurys d'Anzin" alt="Lien de téléchargement du bulletin de participation aux jurys d'Anzin" /> Anzin </a><a href="fiches/fiche_jury_maubeuge.pdf" target="_blank"><img src="images/icones/pdf_32.png" title="Télécharger le bulletin de participation aux jurys de Maubeuge" alt="Lien de téléchargement du bulletin de participation aux jurys de Maubeuge" /> Maubeuge </a></span><br />
 							Intégré à l’un de nos jurys composé de membres de l’équipe E2C et de représentants du monde économique, l’objectif est, selon la phase du parcours, d’évaluer la motivation des candidats à vouloir intégrer notre <strong>école</strong> (<span class="bold">jury de sélection</span>), de conforter l’engagement du stagiaire à vouloir poursuivre son parcours (<span class="bold">jury de validation de la période d’essai</span>) ou prendre part aux décisions quant à la validation de son projet professionnel (<span class="bold" >jury de validation du projet professionnel</span>).
 							</td>
 						</tr>
@@ -88,6 +88,7 @@
 							<td><span class="purple bold" >■ Ateliers de simulation d’entretien</span>
 							<br /> 
 							<span class="bold" >Le vendredi après-midi</span>, en jouant le rôle de recruteur, vous évaluez puis conseillez le stagiaire sur sa manière de se comporter lors d’un entretien d’embauche (attitudes, capacités à présenter son parcours, à motiver sa candidature, réponses aux questions « pièges », etc.).
+							<br/><img src="images/icones/action_arrow_mini.png" /> <span class="purple bold" >Pour y participer téléchargez et complétez la fiche suivante :</span> <a target="_blank" href="fiches/fiche_simulation_entretien.pdf" title="Téléchargement de la fiche de participation au simulation d'entretien de l'E2C Grand Hainaut" /><img src="images/icones/pdf_32.png" title="Téléchargement de la fiche de partcipation au simulation d'entretien de l'E2C Grand Hainaut" alt="Logo de pdf" /></a>
 							</td>	
 						</tr>
 					</tbody>
@@ -105,21 +106,22 @@
 							<td><span class="blue bold" >■ Taxe d’apprentissage</span>
 							<br /> 
 							Vous pouvez participer à l’effort d’intégration de nos jeunes, au développement et à la pérennité de notre Ecole en reversant <span class="bold">sur la partie « hors-quota » dans la catégorie des "Activités Complémentaires"</span>, votre prochaine taxe d’apprentissage.
-							<br><a href="fiches/fiche_engagement_versement_ta.pdf" target="_blank" class="ta">Cliquez ici pour vous engager avec nous !</a>
+							<br><img src="images/icones/action_arrow_mini.png" /><a href="fiches/fiche_engagement_versement_ta.pdf" target="_blank" class="ta" title="Télécharger la fiche de participation à la Taxe d'Apprentissage 2016 !"> Cliquez ici pour vous engager avec nous ! <img src="images/icones/pdf_32.png" title="Télécharger la fiche de participation à la Taxe d'Apprentissage 2016" alt="Lien vers la fiche de participation à la Taxe d'Apprentissage 2016" /></a>
 						</tr>
 						<tr>
 							<td><span class="blue bold" >■ Adhésion à l’Association « E2C Grand Hainaut »</span> 
-							 <img src="images/icones/action_arrow_mini.png" /><a href="fiches/bulletin_adhesion.pdf" target="_blank" >Télécharger le bulletin d'adhésion <img src="images/icones/pdf_32.png" title="Télécharger la fiche d'adhésion" alt="Lien de téléchargement de la fiche d'adhésion" /></a></span> 
+							 <img src="images/icones/action_arrow_mini.png" /><a href="fiches/bulletin_adhesion.pdf" target="_blank" >Téléchargez le bulletin d'adhésion <img src="images/icones/pdf_32.png" title="Télécharger la fiche d'adhésion" alt="Lien de téléchargement de la fiche d'adhésion" /></a></span> 
 							<br /> 
 							Devenez adhérent de l’association et contribuez pleinement à faire évoluer la vie de l’<strong>Ecole</strong> ! Montant de la cotisation annuelle : 20 €
 							</td>	
 						</tr>
 					</tbody>
 				</table>
-				<p class="bold maj" ><img src="images/icones/action_arrow.png" /> Vous souhaitez vous engager avec nous, télécharger et compléter l'une des fiches suivantes :</p>
+				<p class="bold maj" ><img src="images/icones/action_arrow.png" /> Vous souhaitez vous engager avec nous, téléchargez et complétez la fiche suivante : <a target="_blank" href="fiches/fiche_partenariat_entreprise.pdf" title="Téléchargement de la fiche de partenariat entreprise de l'E2C Grand Hainaut" /><img src="images/icones/pdf_32.png" title="Téléchargement de la fiche de partenariat entreprise de l'E2C Grand Hainaut" alt="Logo de pdf" /></a></p>
+			
 				<ul class="list_contact" >
-					<li class="contact" ><span class="bold maj" ><strong class="bold">Anzin</strong> <a target="_blank" href="fiches/Fiche_partenariat_entreprise_anzin.pdf" title="Téléchargement de la fiche de partenariat entreprise de l'E2C Grand Hainaut site d'Anzin" /><img src="images/icones/pdf_32.png" title="Téléchargement de la fiche de partenariat entreprise de l'E2C Grand Hainaut site d'Anzin" alt="Logo de Microsoft Word" /></a> puis contactez Jonathan SPARTY - Tél: 03 27 23 07 90 </span></li>
-					<li class="contact" ><span class="bold maj" ><strong class="bold">Maubeuge</strong> <a target="_blank" href="fiches/Fiche_partenariat_entreprise_maubeuge.pdf" title="Téléchargement de la fiche de partenariat entreprise de l'E2C Grand Hainaut site de Maubeuge" /><img src="images/icones/pdf_32.png" title="Téléchargement de la fiche de partenariat entreprise de l'E2C Grand Hainaut site de Maubeuge" alt="Logo de Microsoft Word" /></a> puis contactez Bruno DELVALLEE - Tél: 03 27 39 36 10</span></li>
+					<li class="contact" ><span class="bold maj" ><strong class="bold">Anzin</strong> contactez Jonathan SPARTY - Tél: 03 27 23 07 90 </span></li>
+					<li class="contact" ><span class="bold maj" ><strong class="bold">Maubeuge</strong> contactez Sophie LASNE - Tél: 06 04 51 47 85</span></li>
 				</ul>
 			</div>
 			<span id="tothetop" ></span>
