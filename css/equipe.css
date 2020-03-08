@@ -9,4 +9,12 @@
 	line-height 	: 	1.4;
 }
 
+.position_avatar > div > img
+{
+	margin-bottom	:   10px;
+}
+
+.position_avatar > div{
+	width: 200px;
+}
 

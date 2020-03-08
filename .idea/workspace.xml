@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3336e718-410c-4936-ba85-6476bcdd0cd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/includes/contact_stagiaires.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E2C-Grand-Hainaut.php" beforeDir="false" afterPath="$PROJECT_DIR$/E2C-Grand-Hainaut.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acces-aux-sites.php" beforeDir="false" afterPath="$PROJECT_DIR$/acces-aux-sites.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/equipe.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/equipe.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entreprises.php" beforeDir="false" afterPath="$PROJECT_DIR$/entreprises.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/equipe.php" beforeDir="false" afterPath="$PROJECT_DIR$/equipe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiches/Fiche_partenariat_entreprise_anzin.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiches/Fiche_partenariat_entreprise_maubeuge.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiches/Old/2016/fiche_simulation_entretien.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/Old/2016/fiche_simulation_entretien.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiches/bulletin_adhesion.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/bulletin_adhesion.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiches/fiche_engagement_versement_ta.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_engagement_versement_ta.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiches/fiche_jury_anzin.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_jury_anzin.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiches/fiche_jury_maubeuge.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_jury_maubeuge.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiches/fiche_partenariat_entreprise.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_partenariat_entreprise.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiches/fiche_positionnement_anzin.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_positionnement_anzin.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiches/fiche_positionnement_maubeuge.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_positionnement_maubeuge.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiches/fiche_positionnement_stagiaires_anzin.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_positionnement_stagiaires_anzin.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiches/fiche_positionnement_stagiaires_maubeuge.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_positionnement_stagiaires_maubeuge.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiches/fiche_reglement_stagiaires_e2c_grandhainaut.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_reglement_stagiaires_e2c_grandhainaut.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiches/fiche_simulation_entretien.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_simulation_entretien.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/contents_blocs/logo-ecole-deuxieme-chance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_agnieray_frederic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_amar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_anais_mounib.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_anne-therese.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_bruno.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_caroline_michelin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_cathy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_colette.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_david_guyot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_delphine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_djelloul.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_elisabeth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_emilie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_emmanuel_lambert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_eric_lombard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_fabienne.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_frederic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_gaetrano_frederic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_isabelle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_jonathan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_laurence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_lucie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_lydie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_sandrine_plinguier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_sebastien.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_sophie_lasne.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_sylvie_demaude.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_typhaine_arcelin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_valerie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_vincent_pirotte.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/avatar_virginie_daubersies.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/equipe/equipe.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/financeurs/banniere_financeurs.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/financeurs/banniere_financeurs.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/financeurs/old/2016/banniere_financeurs.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/financeurs/old/2016/banniere_financeurs.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo_e2c_Grand_Hainaut.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo_e2c_Grand_Hainaut.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/bandeau_taxe_apprentissage.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider/bandeau_taxe_apprentissage.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/bandeau_taxe_apprentissage.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider/bandeau_taxe_apprentissage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/old/bandeau_taxe_apprentissage.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider/old/bandeau_taxe_apprentissage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/bandeau_financeur.html" beforeDir="false" afterPath="$PROJECT_DIR$/includes/bandeau_financeur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/contacter_jsp.html" beforeDir="false" afterPath="$PROJECT_DIR$/includes/contacter_jsp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/header_meta_link.html" beforeDir="false" afterPath="$PROJECT_DIR$/includes/header_meta_link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/header_script.html" beforeDir="false" afterPath="$PROJECT_DIR$/includes/header_script.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/includes/navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jrumble/jrumble.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jrumble/jrumble.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizz.php" beforeDir="false" afterPath="$PROJECT_DIR$/quizz.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stagiaires.php" beforeDir="false" afterPath="$PROJECT_DIR$/stagiaires.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stagiaires.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="71" column="29" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="165" column="50" selection-start-line="165" selection-start-column="50" selection-end-line="165" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quizz.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="170" selection-start-line="170" selection-end-line="170" />
+              <folding>
+                <element signature="e#1907#1913#0#HTML" expanded="true" />
+                <element signature="e#1913#1919#0#HTML" expanded="true" />
+                <element signature="e#2286#2292#0#HTML" expanded="true" />
+                <element signature="e#2292#2298#0#HTML" expanded="true" />
+                <element signature="e#2699#2705#0#HTML" expanded="true" />
+                <element signature="e#2705#2711#0#HTML" expanded="true" />
+                <element signature="e#3128#3134#0#HTML" expanded="true" />
+                <element signature="e#3134#3140#0#HTML" expanded="true" />
+                <element signature="e#3557#3563#0#HTML" expanded="true" />
+                <element signature="e#3563#3569#0#HTML" expanded="true" />
+                <element signature="e#3939#3945#0#HTML" expanded="true" />
+                <element signature="e#3945#3951#0#HTML" expanded="true" />
+                <element signature="e#4484#4490#0#HTML" expanded="true" />
+                <element signature="e#4490#4496#0#HTML" expanded="true" />
+                <element signature="e#4496#4502#0#HTML" expanded="true" />
+                <element signature="e#4502#4508#0#HTML" expanded="true" />
+                <element signature="e#4508#4514#0#HTML" expanded="true" />
+                <element signature="e#4514#4520#0#HTML" expanded="true" />
+                <element signature="e#4520#4526#0#HTML" expanded="true" />
+                <element signature="e#4526#4532#0#HTML" expanded="true" />
+                <element signature="e#4897#4903#0#HTML" expanded="true" />
+                <element signature="e#4903#4909#0#HTML" expanded="true" />
+                <element signature="e#4909#4915#0#HTML" expanded="true" />
+                <element signature="e#4915#4921#0#HTML" expanded="true" />
+                <element signature="e#4921#4927#0#HTML" expanded="true" />
+                <element signature="e#4927#4933#0#HTML" expanded="true" />
+                <element signature="e#4933#4939#0#HTML" expanded="true" />
+                <element signature="e#4939#4945#0#HTML" expanded="true" />
+                <element signature="e#5344#5350#0#HTML" expanded="true" />
+                <element signature="e#5350#5356#0#HTML" expanded="true" />
+                <element signature="e#5356#5362#0#HTML" expanded="true" />
+                <element signature="e#5362#5368#0#HTML" expanded="true" />
+                <element signature="e#5368#5374#0#HTML" expanded="true" />
+                <element signature="e#5374#5380#0#HTML" expanded="true" />
+                <element signature="e#5380#5386#0#HTML" expanded="true" />
+                <element signature="e#5386#5392#0#HTML" expanded="true" />
+                <element signature="e#5807#5813#0#HTML" expanded="true" />
+                <element signature="e#5813#5819#0#HTML" expanded="true" />
+                <element signature="e#5819#5825#0#HTML" expanded="true" />
+                <element signature="e#5825#5831#0#HTML" expanded="true" />
+                <element signature="e#5831#5837#0#HTML" expanded="true" />
+                <element signature="e#5837#5843#0#HTML" expanded="true" />
+                <element signature="e#5843#5849#0#HTML" expanded="true" />
+                <element signature="e#5849#5855#0#HTML" expanded="true" />
+                <element signature="e#6270#6276#0#HTML" expanded="true" />
+                <element signature="e#6276#6282#0#HTML" expanded="true" />
+                <element signature="e#6282#6288#0#HTML" expanded="true" />
+                <element signature="e#6288#6294#0#HTML" expanded="true" />
+                <element signature="e#6294#6300#0#HTML" expanded="true" />
+                <element signature="e#6300#6306#0#HTML" expanded="true" />
+                <element signature="e#6306#6312#0#HTML" expanded="true" />
+                <element signature="e#6312#6318#0#HTML" expanded="true" />
+                <element signature="e#6686#6692#0#HTML" expanded="true" />
+                <element signature="e#6692#6698#0#HTML" expanded="true" />
+                <element signature="e#6698#6704#0#HTML" expanded="true" />
+                <element signature="e#6704#6710#0#HTML" expanded="true" />
+                <element signature="e#6710#6716#0#HTML" expanded="true" />
+                <element signature="e#6716#6722#0#HTML" expanded="true" />
+                <element signature="e#6722#6728#0#HTML" expanded="true" />
+                <element signature="e#6728#6734#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/contact_stagiaires.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>roux</find>
+      <find>partenaire</find>
+      <find>intégration</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/includes/footer.html" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/acces-aux-sites.php" />
+        <option value="$PROJECT_DIR$/equipe.php" />
+        <option value="$PROJECT_DIR$/employees_list.php" />
+        <option value="$PROJECT_DIR$/E2C-Grand-Hainaut.php" />
+        <option value="$PROJECT_DIR$/includes/contact_stagiaires.html" />
+        <option value="$PROJECT_DIR$/quizz.php" />
+        <option value="$PROJECT_DIR$/stagiaires.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/www.e2cgrandhainaut.fr.git.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="118" />
+    <option name="y" value="-8" />
+    <option name="width" value="1610" />
+    <option name="height" value="841" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="www.e2cgrandhainaut.fr.git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.e2cgrandhainaut.fr.git" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="www.e2cgrandhainaut.fr.git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.e2cgrandhainaut.fr.git" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3336e718-410c-4936-ba85-6476bcdd0cd1" name="Default Changelist" comment="" />
+      <created>1583675263086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583675263086</updated>
+      <workItem from="1583675264308" duration="8023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8023000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19669509" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="52" column="18" lean-forward="true" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="113" selection-start-line="25" selection-start-column="113" selection-end-line="25" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acces-aux-sites.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#2539#2545#0#HTML" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employees_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="172" column="43" selection-start-line="172" selection-start-column="42" selection-end-line="172" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/equipe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E2C-Grand-Hainaut.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="161" column="70" selection-start-line="161" selection-start-column="60" selection-end-line="161" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/contact_stagiaires.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quizz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+          <folding>
+            <element signature="e#1907#1913#0#HTML" expanded="true" />
+            <element signature="e#1913#1919#0#HTML" expanded="true" />
+            <element signature="e#2286#2292#0#HTML" expanded="true" />
+            <element signature="e#2292#2298#0#HTML" expanded="true" />
+            <element signature="e#2699#2705#0#HTML" expanded="true" />
+            <element signature="e#2705#2711#0#HTML" expanded="true" />
+            <element signature="e#3128#3134#0#HTML" expanded="true" />
+            <element signature="e#3134#3140#0#HTML" expanded="true" />
+            <element signature="e#3557#3563#0#HTML" expanded="true" />
+            <element signature="e#3563#3569#0#HTML" expanded="true" />
+            <element signature="e#3939#3945#0#HTML" expanded="true" />
+            <element signature="e#3945#3951#0#HTML" expanded="true" />
+            <element signature="e#4484#4490#0#HTML" expanded="true" />
+            <element signature="e#4490#4496#0#HTML" expanded="true" />
+            <element signature="e#4496#4502#0#HTML" expanded="true" />
+            <element signature="e#4502#4508#0#HTML" expanded="true" />
+            <element signature="e#4508#4514#0#HTML" expanded="true" />
+            <element signature="e#4514#4520#0#HTML" expanded="true" />
+            <element signature="e#4520#4526#0#HTML" expanded="true" />
+            <element signature="e#4526#4532#0#HTML" expanded="true" />
+            <element signature="e#4897#4903#0#HTML" expanded="true" />
+            <element signature="e#4903#4909#0#HTML" expanded="true" />
+            <element signature="e#4909#4915#0#HTML" expanded="true" />
+            <element signature="e#4915#4921#0#HTML" expanded="true" />
+            <element signature="e#4921#4927#0#HTML" expanded="true" />
+            <element signature="e#4927#4933#0#HTML" expanded="true" />
+            <element signature="e#4933#4939#0#HTML" expanded="true" />
+            <element signature="e#4939#4945#0#HTML" expanded="true" />
+            <element signature="e#5344#5350#0#HTML" expanded="true" />
+            <element signature="e#5350#5356#0#HTML" expanded="true" />
+            <element signature="e#5356#5362#0#HTML" expanded="true" />
+            <element signature="e#5362#5368#0#HTML" expanded="true" />
+            <element signature="e#5368#5374#0#HTML" expanded="true" />
+            <element signature="e#5374#5380#0#HTML" expanded="true" />
+            <element signature="e#5380#5386#0#HTML" expanded="true" />
+            <element signature="e#5386#5392#0#HTML" expanded="true" />
+            <element signature="e#5807#5813#0#HTML" expanded="true" />
+            <element signature="e#5813#5819#0#HTML" expanded="true" />
+            <element signature="e#5819#5825#0#HTML" expanded="true" />
+            <element signature="e#5825#5831#0#HTML" expanded="true" />
+            <element signature="e#5831#5837#0#HTML" expanded="true" />
+            <element signature="e#5837#5843#0#HTML" expanded="true" />
+            <element signature="e#5843#5849#0#HTML" expanded="true" />
+            <element signature="e#5849#5855#0#HTML" expanded="true" />
+            <element signature="e#6270#6276#0#HTML" expanded="true" />
+            <element signature="e#6276#6282#0#HTML" expanded="true" />
+            <element signature="e#6282#6288#0#HTML" expanded="true" />
+            <element signature="e#6288#6294#0#HTML" expanded="true" />
+            <element signature="e#6294#6300#0#HTML" expanded="true" />
+            <element signature="e#6300#6306#0#HTML" expanded="true" />
+            <element signature="e#6306#6312#0#HTML" expanded="true" />
+            <element signature="e#6312#6318#0#HTML" expanded="true" />
+            <element signature="e#6686#6692#0#HTML" expanded="true" />
+            <element signature="e#6692#6698#0#HTML" expanded="true" />
+            <element signature="e#6698#6704#0#HTML" expanded="true" />
+            <element signature="e#6704#6710#0#HTML" expanded="true" />
+            <element signature="e#6710#6716#0#HTML" expanded="true" />
+            <element signature="e#6716#6722#0#HTML" expanded="true" />
+            <element signature="e#6722#6728#0#HTML" expanded="true" />
+            <element signature="e#6728#6734#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stagiaires.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="71" column="29" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="165" column="50" selection-start-line="165" selection-start-column="50" selection-end-line="165" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
