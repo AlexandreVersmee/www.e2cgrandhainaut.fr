@@ -23,7 +23,7 @@
         <h3 class="page_title">L'équipe de l'E2C Grand Hainaut</h3>
 
         <?
-		echo 'testsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss';
+
         include 'employees_list.php';
 
         echo '<center><table class="hide-for-small">';

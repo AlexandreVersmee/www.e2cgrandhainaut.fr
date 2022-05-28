@@ -120,34 +120,45 @@
 									style="height:50px;" src="images/acces_aux_sites/fourmies.jpg"
 									title="Photo du site de Fourmies de l'Ecole de la Deuxième Chance Grand Hainaut"
 									alt="Photo du site de Fourmies de l'Ecole de la Deuxième Chance Grand Hainaut" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a
-								href="images/acces_aux_sites/map_fourmies.png" class="lightbox"
-								data-title="Plan d'accès au site de Fourmies de l'Ecole de la Deuxième Chance Grand Hainaut"><img src="images/icones/map-icon.png"
-																																  title="Plan d'accès au site de Fourmies de l'Ecole de la Deuxième Chance Grand Hainaut"
-																																  alt="Plan d'accès au site de Fourmies de l'Ecole de la Deuxième Chance Grand Hainaut" /></a>
-					</center>
-					</p>
-				</div>
-			</div>
-			<div class="large-6 columns">
+                                href="images/acces_aux_sites/map_fourmies.png" class="lightbox"
+                                data-title="Plan d'accès au site de Fourmies de l'Ecole de la Deuxième Chance Grand Hainaut"><img src="images/icones/map-icon.png"
+                                                                                                                                  title="Plan d'accès au site de Fourmies de l'Ecole de la Deuxième Chance Grand Hainaut"
+                                                                                                                                  alt="Plan d'accès au site de Fourmies de l'Ecole de la Deuxième Chance Grand Hainaut"/></a>
+                    </center>
+                    </p>
+                </div>
+            </div>
+            <div class="large-6 columns">
 
-				<h5 class="title_site">Antenne de <strong class="bold">Thiérache Vervins</strong></h5>                                            <br />
-				<p>
+                <h5 class="title_site">Site de <strong class="bold">Thiérache Vervins</strong></h5>  <br/>
+                <p>
 					<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-					<span itemprop="streetAddress"> ZAC Créapole Route d’Hirson</span><br />
+					<span itemprop="streetAddress"> ZAC Créapole Route d’Hirson</span><br/>
 					<span itemprop="postalCode">02140</span>
 					<span itemprop="addressLocality">VERVINS</span></span>
+                <p><span class="bold">Tél. :</span>
+                    <span itemprop="telephone" class="bold">03 75 31 00 10</span></p>
+                </p>
+                </p>
+                <br/>
 
-				</p>
+                <p class="line_space_unordered_list">Trajet :
+                <ul class="list_path">
+                    <li><span class="path">GPS</span>: ZAC Créapole Route d’Hirson</li>
+                </ul>
+                <center>
 
-			</div>
-		</div>
+                    </p>
 
-		<div class="large-12 columns">
-			<br>
-			<p class="line_space_unordered_list">Horaires d'ouverture :
-			<ul class="list_path">
-				<li><span class="path">Du lundi au jeudi de 8h30 à 12h30 et de 13h30 à 17h30</li>
-				<li><span class="path">Le vendredi de 8h30 à 12h30 et de 13h30 à 16h30</li>
+            </div>
+        </div>
+
+        <div class="large-12 columns">
+            <br>
+            <p class="line_space_unordered_list">Horaires d'ouverture :
+            <ul class="list_path">
+                <li><span class="path">Du lundi au jeudi de 8h30 à 12h30 et de 13h30 à 17h30</li>
+                <li><span class="path">Le vendredi de 8h30 à 12h30 et de 13h30 à 16h30</li>
 			</ul>
 			</p>
 		</div>

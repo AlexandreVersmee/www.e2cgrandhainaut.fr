@@ -5,8 +5,8 @@
 <html class="no-js" lang="en"> <!--<![endif]-->
 
 <head>
-	<meta charset="utf-8" />
-	<title>Ecole de la 2e Chance Grand Hainaut - Quizz</title>
+    <meta charset="utf-8"/>
+    <title>Ecole de la 2e Chance Grand Hainaut - Quiz</title>
     <?php include './includes/header_meta_link.html'; ?>
 	<link rel="stylesheet" media="screen" type="text/css" href="css/jquery.lightbox.css" />
     <?php
@@ -36,18 +36,18 @@
 
 <!-- > START < CONTENT BLOC -->
 <div id="content" class="row">
-	<div class="large-12 columns">
-		<h3 class="page_title">Quizz pour découvrir si vous avez le profil E2C !</h3>
-		<div class="hide-for-small" id="question">
+    <div class="large-12 columns">
+        <h3 class="page_title">Quiz pour découvrir si vous avez le profil E2C !</h3>
+        <div class="hide-for-small" id="question">
 
-			<div class="question_1" id="question_1">
-				L'<strong>Ecole</strong> de la Deuxième
-				<br />Chance Grand Hainaut
-				<br />recrute des jeunes âgés
-				<br />de 18 à 25 ans ?
-				<br />
-				<a href="images/quizz/questionnaire/true_q1.png" class="lightbox true_false">Vrai</a> &nbsp;&nbsp;
-				<a href="images/quizz/questionnaire/false_q1.png" class="lightbox true_false">Faux</a>
+            <div class="question_1" id="question_1">
+                L'<strong>Ecole</strong> de la Deuxième
+                <br/>Chance Grand Hainaut
+                <br/>recrute des jeunes âgés
+                <br/>de 18 à 25 ans ?
+                <br/>
+                <a href="images/quizz/questionnaire/true_q1.png" class="lightbox true_false">Vrai</a> &nbsp;&nbsp;
+                <a href="images/quizz/questionnaire/false_q1.png" class="lightbox true_false">Faux</a>
 			</div>
 
 			<div id="question_2">
@@ -156,17 +156,22 @@
 			</div>
 
 			<div id="question_6_mob">
-				Je ne ferai que des Maths
-				<br />et du Français à l'<strong>E2C</strong>
-				<br />Grand Hainaut ?
-				<br />
-				<p class="text-center"><a href="images/quizz/questionnaire/false_q4.png" class="lightbox true_false">Vrai</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="images/quizz/questionnaire/true_q4.png" class="lightbox true_false">Faux</a></p>
-			</div>
-		</div>
+                Je ne ferai que des Maths
+                <br/>et du Français à l'<strong>E2C</strong>
+                <br/>Grand Hainaut ?
+                <br/>
+                <p class="text-center"><a href="images/quizz/questionnaire/false_q4.png" class="lightbox true_false">Vrai</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="images/quizz/questionnaire/true_q4.png" class="lightbox true_false">Faux</a></p>
+            </div>
+        </div>
 
 
-		<p class="bold maj"><img src="images/icones/action_arrow.png" />Bien joué ! Pour vous inscrire, téléchargez et complétez l'une des fiches suivantes :</p>
+        <p class="bold maj"><img src="images/icones/action_arrow.png"/>Bien joué !
+            Pour vous inscrire, téléchargez et complétez la fiche suivante : <a target="_blank" href="fiches/fiche_positionnement_stagiaires.pdf"
+                                                                                title="Téléchargement de la fiche d'inscription  - E2C Grand Hainaut"/>
+            <img src="images/icones/pdf_32.png" title="Téléchargement de la fiche d'inscription - E2C Grand Hainaut"></a>
+
+        </p>
         <?php include  './includes/contact_stagiaires.html' ?>
 
 	</div>

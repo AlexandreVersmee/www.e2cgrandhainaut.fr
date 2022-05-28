@@ -4187,70 +4187,83 @@ a.th {
 
 /* Small Screen (max-width 640px) */
 @media only screen and (max-width : 40em) {
-	.div_headband_financer
-	{
-		text-align			:	center;
-	}	
+
 	.slogan
 	{
 		padding-left       :	20%;
 	}
 
-	#div_headband_financer
-	{
-		padding-top	 	   :	20px;
-	}
+    .div_headband_financer {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        text-align: center;
+    }
+
+.img_headband_financer {
+    padding-right: 5px;
+    padding-left: 5px;
+    max-width: 55px;
+    min-width: 40px;
+
 }
 
-.slogan
-{
-	font-family	 	       :	script,cursive;
-	font-style  		   :	oblique;
-	color      			   :	rgb(127,127,127);	
-	font-size   		   :	16px;
-}
-
-.img_headband_financer
-{
-	padding-right			:	5px;
-	padding-left			:	5px;
-	/*padding-bottom 			:	25px;*/
-	max-width				:	55px;
-	min-width				:	40px;
-  
-}
-
-.img_headband_financer-npdc
-{
-    padding-right			:	5px;
-    padding-left			:	5px;
-    /*padding-bottom 			:	25px;*/
-    max-width				:	170px;
-    min-width				:	58px
+    .img_headband_financer-npdc {
+        padding-right: 5px;
+        padding-left: 5px;
+        /*padding-bottom      : 25px;*/
+        max-width: 80px;
+        min-width: 58px
+    }
 }
 
 
 /* Medium Screen (min-width 641px and max 1024px) */
-@media only screen and (min-width : 40.063em) /*and (max-width : 64em)*/
-{
-    .img_headband_financer-npdc
-    {
-        padding-right			:	5px;
-        padding-left			:	5px;
-        /*padding-bottom 			:	25px;*/
-        max-width				:	132px;
-        min-width				:	58px
+@media only screen and (min-width: 40.063em) /*and (max-width : 64em)*/ {
+    .img_headband_financer {
+        padding-right: 5px;
+        padding-left: 5px;
+        max-width: 55px;
+        min-width: 40px;
+
     }
-      .div_headband_financer
-  {
-    /*text-align      : right;*/
-  }
+
+    .img_headband_financer-npdc {
+        padding-right: 5px;
+        padding-left: 5px;
+        /*padding-bottom      : 25px;*/
+        max-width: 120px;
+        min-width: 58px
+    }
+
+    .div_headband_financer {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
 }
+
 /* Large Screen (min-width 1025px) */
-@media only screen and (min-width : 60.063em) {
-    .div_headband_financer
-    {
-       /* text-align      : right;*/
+@media only screen and (min-width: 60.063em) {
+    .slogan {
+        font-family: script, cursive;
+        font-style: oblique;
+        color: rgb(127, 127, 127);
+        font-size: 16px;
+    }
+
+    .img_headband_financer {
+        padding-right: 5px;
+        padding-left: 5px;
+        max-width: 55px;
+        min-width: 40px;
+
+    }
+
+    .img_headband_financer-npdc {
+        padding-right: 5px;
+        padding-left: 5px;
+        /*padding-bottom      : 25px;*/
+        max-width: 120px;
+        min-width: 58px
     }
 }
 

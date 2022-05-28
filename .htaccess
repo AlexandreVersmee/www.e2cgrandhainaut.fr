@@ -1,0 +1,69 @@
+SetEnv PHP_VER 5_3
+SetEnv REGISTER_GLOBALS 0
+
+ErrorDocument 404 http://www.e2cgrandhainaut.fr/404_error.php
+
+### Caching mod_headers + mod_expires
+ 
+<IfModule mod_expires.c>
+ 		 # Turn on Expires and set default to now
+		 ExpiresActive On
+		 ExpiresDefault "now"
+		 
+		  <FilesMatch "\.(flv|ico|pdf|avi|mov|ppt|doc|mp3|wmv|wav|swf)$">
+			ExpiresDefault "access plus 1 month"
+		 </FilesMatch>
+		 
+		 <FilesMatch "\.(gif|jpg|jpeg|png)$">
+			ExpiresDefault "access plus 1 month"
+		 </FilesMatch>
+
+		 <FilesMatch "\.(js|css)$">
+			ExpiresDefault "access plus 1 week"
+		 </FilesMatch>
+		 
+		 <FilesMatch "\.(xml|xsl|html|htm|txt)$">
+			ExpiresDefault "access plus 1 hour"
+		 </FilesMatch>
+		 
+		 <FilesMatch "\.(php|cgi|pl)$">
+			ExpiresActive Off
+		 </FilesMatch>
+</IfModule>
+ 
+<IfModule mod_headers.c>
+		 # Remote ETag from headers
+		 Header unset ETag
+		 
+		 # Disable ETag for files
+		 FileETag None
+		 
+		 # Media files are catchable
+		 <FilesMatch "\.(flv|ico|pdf|avi|mov|ppt|doc|mp3|wmv|wav|swf)$">
+		 Header append Cache-Control "public"
+		 </FilesMatch>
+		 
+		 # Images, css and javascript files are catchable
+		 <FilesMatch "\.(gif|jpg|jpeg|png|js|css)$">
+		 Header append Cache-Control "public"
+		 </FilesMatch>
+		 
+		 # Commonly updated files are catchable
+		 <FilesMatch "\.(xml|html|htm|txt)$">
+		 
+		 AddOutputFilterByType DEFLATE text/html text/xml application/xhtml+xml text/plain application/javascript text/css
+		 Header append Cache-Control "public"
+		 </FilesMatch>
+		 
+		 # Force no caching for dynamic files
+		 <FilesMatch "\.(php|cgi|pl|htm)$">
+		 Header set Cache-Control "private, no-cache, no-store, proxy-revalidate, no-transform"
+		 Header set Pragma "no-cache"
+		 </FilesMatch>
+</IfModule>
+
+
+Options +FollowSymlinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^e2cgrandhainaut.fr$
+RewriteRule ^(.*) http://www.e2cgrandhainaut.fr/$1 [QSA,L,R=301]

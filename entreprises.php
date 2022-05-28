@@ -83,26 +83,37 @@
 					</tbody>
 				</table>
 				<h4 class="accompany" ><span class="accompany_bg">Accompagnez - coachez...</span></h4>
-				<table class="accompany_border" >
-					<tbody>
-						<tr>
-							<td><span class="purple bold" >■ Jurys de l’E2C Grand Hainaut</span><br />
-								<span style="color:#2597b6;">
-								<img src="images/icones/action_arrow_mini.png" /> Pour vous inscrire, téléchargez le bulletin de participation aux jurys 
-								<a href="fiches/fiche_jury_anzin.pdf" target="_blank" ><img src="images/icones/pdf_32.png" title="Télécharger le bulletin de participation aux jurys d'Anzin" alt="Lien de téléchargement du bulletin de participation aux jurys d'Anzin" /> Anzin </a>
-								<a href="fiches/fiche_jury_maubeuge.pdf" target="_blank"><img src="images/icones/pdf_32.png" title="Télécharger le bulletin de participation aux jurys de Maubeuge" alt="Lien de 
-								téléchargement du bulletin de participation aux jurys de Maubeuge" /> Maubeuge </a>
-								<a href="fiches/fiche_jury_fourmies.pdf" target="_blank"><img src="images/icones/pdf_32.png" title="Télécharger le bulletin de participation aux jurys de Fourmies" alt="Lien de téléchargement du bulletin de participation aux jurys de Forumies" /> Fourmies </a>
-								</span><br />
-								Intégré(e) à l’un de nos jurys composé de membres de l’équipe E2C et d’autres représentants du monde économique, votre objectif sera de : 
-								<br/>
-								<ul style="margin-left:15px;">
-									<li><span class="bold">jurys de sélection</span> : évaluer la motivation des candidats à vouloir intégrer notre école </li>
-									<li><span class="bold">jurys de validation de la période d’essai</span> : conforter l’engagement du stagiaire à vouloir poursuivre son parcours au sein de l’école </li>
-									<li><span class="bold">jurys de validation du projet professionnel </span>: prendre part aux décisions quant à la validation de son projet professionnel
-</li>
-								</ul>
-							</td>
+                <table class="accompany_border">
+                    <tbody>
+                    <tr>
+                        <td><span class="purple bold">■ Jurys de l’E2C Grand Hainaut</span><br/>
+                            <span style="color:#2597b6;">
+								<img src="images/icones/action_arrow_mini.png"/> Pour vous inscrire, téléchargez le bulletin de participation aux jurys
+								<a href="fiches/fiche_jury_anzin.pdf" target="_blank"><img src="images/icones/pdf_32.png"
+                                                                                           title="Télécharger le bulletin de participation aux jurys d'Anzin"
+                                                                                           alt="Lien de téléchargement du bulletin de participation aux jurys d'Anzin"/> Anzin </a>
+								<a href="fiches/fiche_jury_maubeuge.pdf" target="_blank"><img src="images/icones/pdf_32.png"
+                                                                                              title="Télécharger le bulletin de participation aux jurys de Maubeuge" alt="Lien de
+								téléchargement du bulletin de participation aux jurys de Maubeuge"/> Maubeuge </a>
+								<a href="fiches/fiche_jury_fourmies.pdf" target="_blank"><img src="images/icones/pdf_32.png"
+                                                                                              title="Télécharger le bulletin de participation aux jurys de Fourmies"
+                                                                                              alt="Lien de téléchargement du bulletin de participation aux jurys de Forumies"/> Fourmies </a>
+								<a href="fiches/fiche_jury_vervins-thierache.pdf" target="_blank"><img src="images/icones/pdf_32.png"
+                                                                                                       title="Télécharger le bulletin de participation aux jurys de Vervins/Thiérache"
+                                                                                                       alt="Lien de téléchargement du bulletin de participation aux jurys de Vervins/Thiérache"/> Vervins/Thiérache </a>
+								</span><br/>
+                            Intégré(e) à l’un de nos jurys composé de membres de l’équipe E2C et d’autres représentants du monde économique, votre objectif sera de :
+                            <br/>
+                            <ul style="margin-left:15px;">
+                                <li><span class="bold">jurys de sélection</span> : évaluer la motivation des candidats à vouloir intégrer notre école</li>
+                                <li><span class="bold">jurys de validation de la période d’essai</span> : conforter l’engagement du stagiaire à vouloir poursuivre son
+                                    parcours au sein de l’école
+                                </li>
+                                <li><span class="bold">jurys de validation du projet professionnel </span>: prendre part aux décisions quant à la validation de son projet
+                                    professionnel
+                                </li>
+                            </ul>
+                        </td>
 						</tr>
 						<tr>
 							<td><span class="purple bold" >■ Ateliers de simulation d’entretien</span>
@@ -117,54 +128,58 @@
 							<br /> 
 							Faites profiter de votre expérience et de votre expertise ! <span class="bold">En accompagnant régulièrement votre « filleul(e) » - stagiaire de l’E2C Grand Hainaut, vous
 							l’aidez dans ses démarches d’insertion professionnelle : coaching, accès à un réseau de partenaires, etc.</span>
-							</td>	
-						</tr>
-					</tbody>
-				</table>	
-				<h4 class="finance" ><span class="finance_bg">Financez et adhérez...</span></h4>
-				<table class="finance_border" >
-					<tbody>
-					<tr>
-							<td><span class="blue bold" >■ Taxe d’apprentissage</span>
-							<br /> 
-							Vous pouvez participer à l’effort d’intégration de nos jeunes, au développement et à la pérennisation de notre Ecole <span class="bold">en reversant sur la
-							partie « Activités Dérogatoires » du « Hors-Quota » votre Taxe d’apprentissage.</span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h4 class="finance"><span class="finance_bg">Financez et adhérez...</span></h4>
+                <table class="finance_border">
+                    <tbody>
+                    <tr>
+                        <td><span class="blue bold">■ Taxe d’apprentissage</span>
+                            <br/>
+                            Vous pouvez participer à l’effort d’intégration de nos jeunes, au développement et à la pérennisation de notre Ecole <span class="bold">en reversant les 13 % de la taxe d’apprentissage.</span>
 
-							<br><img src="images/icones/action_arrow_mini.png" /><a href="fiches/fiche_engagement_versement_ta.pdf" target="_blank" class="ta" title="Télécharger la fiche de participation à la Taxe d'Apprentissage 2018 !"> Cliquez ici pour vous engager avec nous ! <img src="images/icones/pdf_32.png" title="Télécharger la fiche de participation à la Taxe d'Apprentissage 2018" alt="Lien vers la fiche de participation à la Taxe d'Apprentissage 2018" /></a>
-						</tr>
-						<tr>
-							<td><span class="blue bold" >■ Mécénat</span>
-							<br /> 
-							 <span class="bold">Soutenez notre Ecole grâce à vos dons !</span> Qu’il s’agisse de mécénat <span class="bold">financier, matériel ou de compétences</span>, votre contribution est un signe fort d’engagement et de confiance
-							</td>
-						</tr>
-						
-						<tr>
-							<td><span class="blue bold" >■ Adhésion à l’Association « E2C Grand Hainaut »</span> 
-							 <img src="images/icones/action_arrow_mini.png" /><a href="fiches/bulletin_adhesion.pdf" target="_blank" >Téléchargez le bulletin d'adhésion <img src="images/icones/pdf_32.png" title="Télécharger le bulletin d'adhésion" alt="Lien de téléchargement de la fiche d'adhésion" /></a></span> 
-							<br /> 
-							<span class="bold">Devenez adhérent de l’association</span> et contribuez pleinement à faire évoluer la vie de l’Ecole !
-							<br/><span class="bold">Montant de la cotisation annuelle : <u>20 €</u></span>
-							</td>	
-						</tr>
-					</tbody>
-				</table>
-				<p class="bold maj" ><img src="images/icones/action_arrow.png" /> Vous souhaitez vous engager avec nous, téléchargez et complétez la fiche suivante : <a target="_blank" href="fiches/fiche_partenariat_entreprise.pdf" title="Téléchargement de la fiche de partenariat de l'E2C Grand Hainaut" /><img src="images/icones/pdf_32.png" title="Téléchargement de la fiche de partenariat de l'E2C Grand Hainaut" alt="Logo de pdf" /></a></p>
-			
-				<ul class="list_contact" >
-					<li class="contact" ><span class="bold maj" ><strong class="bold">Anzin</strong> contactez Sandrine PLINGUIER - Tél: 03 27 23 07 90 </span></li>
-					<li class="contact" ><span class="bold maj" ><strong class="bold">Maubeuge</strong> contactez Sophie LASNE - Tél: 06 04 51 47 85</span></li>
-					<li class="contact" ><span class="bold maj" ><strong class="bold">Fourmies</strong> contactez Valérie HERBIN - Tel: 06 42 40 36 11</span></li>
-				</ul>
-			</div>
-			<span id="tothetop" ></span>
-		</div>
-		<!-- > END < CONTENT BLOC -->
+                            <br><img src="images/icones/action_arrow_mini.png"/><a href="fiches/fiche_engagement_versement_ta.pdf" target="_blank" class="ta"
+                                                                                   title="Télécharger la fiche de participation à la Taxe d'Apprentissage !"> Cliquez ici
+                                pour vous engager avec nous ! <img src="images/icones/pdf_32.png" title="Télécharger la fiche de participation à la Taxe d'Apprentissage "
+                                                                   alt="Lien vers la fiche de participation à la Taxe d'Apprentissage"/></a>
+                    </tr>
+                    <tr>
+                        <td><span class="blue bold">■ Mécénat</span>
+                            <br/>
+                            <span class="bold">Soutenez notre Ecole grâce à vos dons !</span> Qu’il s’agisse de mécénat <span class="bold">financier, matériel ou de compétences</span>,
+                            votre contribution est un signe fort d’engagement et de confiance
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><span class="blue bold">■ Adhésion à l’Association « E2C Grand Hainaut »</span>
+                            <img src="images/icones/action_arrow_mini.png" /><a href="fiches/bulletin_adhesion.pdf" target="_blank" >Téléchargez le bulletin d'adhésion <img src="images/icones/pdf_32.png" title="Télécharger le bulletin d'adhésion" alt="Lien de téléchargement de la fiche d'adhésion" /></a></span>
+                            <br/>
+                            <span class="bold">Devenez adhérent de l’association</span> et contribuez pleinement à faire évoluer la vie de l’Ecole !
+                            <br/><span class="bold">Montant de la cotisation annuelle : <u>20 €</u></span>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+                <p class="bold maj"><img src="images/icones/action_arrow.png"/> Vous souhaitez vous engager avec nous, téléchargez et complétez la fiche suivante : <a
+                            target="_blank" href="fiches/fiche_partenariat_entreprise.pdf" title="Téléchargement de la fiche de partenariat de l'E2C Grand Hainaut"/><img
+                            src="images/icones/pdf_32.png" title="Téléchargement de la fiche de partenariat de l'E2C Grand Hainaut" alt="Logo de pdf"/></a></p>
+
+                <ul class="list_contact">
+                    <li class="contact"><span class="bold maj"><strong class="bold">Anzin</strong> contactez Isabelle Fréville - Tél: 06 66 00 47 88 </span></li>
+                    <li class="contact"><span class="bold maj"><strong class="bold">Maubeuge</strong> contactez Sophie Lasne - Tél: 06 04 51 47 85</span></li>
+                    <li class="contact"><span class="bold maj"><strong class="bold">Fourmies</strong> contactez Valérie Herbin- Tel: 06 42 40 36 11</span></li>
+                    <li class="contact"><span class="bold maj"><strong class="bold">Vervins/Thiérache</strong> contactez Caroline Roux - Tel: 06 08 34 94 05</span></li>
+                </ul>
+            </div>
+            <span id="tothetop"></span>
+        </div>
+        <!-- > END < CONTENT BLOC -->
 
 
-
-
- 		<!-- > START < FOOTER -->
+        <!-- > START < FOOTER -->
  			<script src="js/jquery.js"></script>
 			<?php include './includes/footer.html'; ?>
 		<!-- > END < FOOTER -->
