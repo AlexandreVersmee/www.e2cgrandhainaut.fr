@@ -4,216 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3336e718-410c-4936-ba85-6476bcdd0cd1" name="Default Changelist" comment="🍱 update assets.">
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fiches/Old/Fiche_partenariat_entreprise_anzin.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fiches/Old/Fiche_partenariat_entreprise_maubeuge.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fiches/Old/Resultats_e2c_Grand_Hainaut.pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fiches/Old/fiche_positionnement_anzin.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fiches/Old/fiche_positionnement_maubeuge.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fiches/Old/fiche_positionnement_thierache-vervins.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fiches/Old/fiche_reglement_stagiaires_e2c_grandhainaut.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fiches/Resultats_e2c_Grand_Hainaut.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fiches/e2c-grand-hainaut-fete-ses-10ans.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fiches/fiche_jury_vervins-thierache.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fiches/fiche_positionnement_stagiaires.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fiches/fiche_positionnement_thierache-vervins.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bandeau.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/contents_blocs/Logo_Label_Reseau_E2C.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/contents_blocs/logo-ecole-deuxieme-chance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/Ingrid_briatte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/caroline_roux.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/celine_chupin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/colombel_laura.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/delphine_rouget.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/lorelei_godbille.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/melanie_bacouet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/old/alexandre_bouttefeux.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/old/anais_mounib.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/old/aurelie_dubrulle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/old/aurelie_lecrivain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/old/claire_ledieu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/old/claire_petit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/old/coreline_lefebvre.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/old/jonathan_sparty.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/old/lydie_chermeux.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/old/marjory_monniaux.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/old/olivier_ruysschaert.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/old/rudy_lesaint.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/old/sandrine_plinguier.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/old/stephanie_podolczak.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/old/violaine_badre.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/old/virginie_daubersies.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/pierre_lautrie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/sabrina_merlin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/violaine_badre.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/equipe/wendy_descourriere.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/financeurs/cohesion_des_territoires.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/financeurs/direccte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/financeurs/financeur_footer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/financeurs/fse_action_cofinancee_de_presage_2013.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/financeurs/haut-commissariat-aux-competences.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/financeurs/logo-FSE-et-Leurope-sengage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/financeurs/logo_region_nordpasdecalais.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/financeurs/old/acse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/financeurs/old/banniere_financeurs-2020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/financeurs/old/direccte.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/financeurs/old/fse_action_cofinancee_de_presage_2013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/financeurs/old/logo-FSE-et-Leurope-sengage.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/financeurs/old/logo_region_haut_de_france.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/financeurs/old/logo_region_nordpasdecalais.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/financeurs/old/ue_investit_dans_votre_avenir.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fse_bandeau.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/quizz/questionnaire/old/false_q1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/quizz/questionnaire/old/false_q2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/quizz/questionnaire/old/false_q3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/quizz/questionnaire/old/false_q4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/quizz/questionnaire/old/false_q5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/quizz/questionnaire/old/false_q6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/quizz/questionnaire/old/true_q1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/quizz/questionnaire/old/true_q2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/quizz/questionnaire/old/true_q3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/quizz/questionnaire/old/true_q4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/quizz/questionnaire/old/true_q5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/quizz/questionnaire/old/true_q6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slider/bowling_2019_Vervins.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slider/e2c-grand-hainaut-fete-ses-10ans.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/banniere_financeurs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/contact_stagiaires.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/index-2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/notice_vitrine_talent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/selection_profil.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/vitrine-batiment-h.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/vitrine-batiment.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/vitrine-commercial-h.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/vitrine-commercial.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/vitrine-hotellerie-h.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/vitrine-hotellerie.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/vitrine-industrie-h.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/vitrine-industrie.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/vitrine-sante-h.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/vitrine-sante.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/vitrine.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3336e718-410c-4936-ba85-6476bcdd0cd1" name="Default Changelist" comment="✨ Change FSE Band">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E2C-Grand-Hainaut.php" beforeDir="false" afterPath="$PROJECT_DIR$/E2C-Grand-Hainaut.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/acces-aux-sites.php" beforeDir="false" afterPath="$PROJECT_DIR$/acces-aux-sites.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/foundation.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/foundation.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employees_list.php" beforeDir="false" afterPath="$PROJECT_DIR$/employees_list.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entreprises.php" beforeDir="false" afterPath="$PROJECT_DIR$/entreprises.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/equipe.php" beforeDir="false" afterPath="$PROJECT_DIR$/equipe.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/Fiche_partenariat_entreprise_anzin.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/Fiche_partenariat_entreprise_maubeuge.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/Old/Resultats_e2c_Grand_Hainaut.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/Old/Resultats_e2c_Grand_Hainaut.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/Old/bulletin_adhesion.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/Old/bulletin_adhesion.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/Old/fiche_jury_anzin.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/Old/fiche_jury_anzin.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/Old/fiche_jury_fourmies.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/Old/fiche_jury_fourmies.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/Old/fiche_jury_maubeuge.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/Old/fiche_jury_maubeuge.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/Old/fiche_partenariat_entreprise.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/Old/fiche_partenariat_entreprise.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/Old/fiche_positionnement_fourmies.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/Old/fiche_positionnement_fourmies.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/Old/fiche_positionnement_stagiaires_anzin.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/Old/fiche_positionnement_stagiaires_anzin.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/Old/fiche_positionnement_stagiaires_fourmies.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/Old/fiche_positionnement_stagiaires_fourmies.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/Old/fiche_positionnement_stagiaires_maubeuge.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/Old/fiche_positionnement_stagiaires_maubeuge.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/Old/fiche_simulation_entretien.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/Old/fiche_simulation_entretien.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/Resultats_2015_e2c_Grand_Hainaut.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/Resultats_e2c_Grand_Hainaut.pdf.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/bulletin_adhesion.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/bulletin_adhesion.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/fiche_engagement_versement_ta.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_engagement_versement_ta.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/fiche_jury_anzin.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_jury_anzin.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/fiche_jury_fourmies.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_jury_fourmies.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/fiche_jury_maubeuge.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_jury_maubeuge.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/fiche_partenariat_entreprise.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_partenariat_entreprise.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/fiche_positionnement_anzin.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_positionnement_anzin.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/fiche_positionnement_fourmies.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_positionnement_fourmies.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/fiche_positionnement_maubeuge.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_positionnement_maubeuge.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/fiche_positionnement_stagiaires_anzin.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_positionnement_stagiaires_anzin.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/fiche_positionnement_stagiaires_fourmies.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_positionnement_stagiaires_fourmies.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/fiche_positionnement_stagiaires_maubeuge.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/fiche_reglement_stagiaires_e2c_grandhainaut.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_reglement_stagiaires_e2c_grandhainaut.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiches/fiche_simulation_entretien.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fiches/fiche_simulation_entretien.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Logo_Label_Reseau_E2C.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/contents_blocs/logo-ecole-deuxieme-chance.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/contents_blocs/old/Logo_Label_Reseau_E2C.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/contents_blocs/old/Logo_Label_Reseau_E2C.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/equipe/alexandre_bouttefeux.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/equipe/anais_mounib.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/equipe/aurelie_dubrulle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/equipe/aurelie_lecrivain.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/equipe/claire_ledieu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/equipe/claire_petit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/equipe/coreline_lefebvre.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/equipe/equipe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/equipe/jonathan_sparty.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/equipe/lydie_chermeux.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/equipe/marjory_monniaux.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/equipe/olivier_ruysschaert.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/equipe/rudy_lesaint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/equipe/sandrine_plinguier.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/equipe/stephanie_podolczak.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/equipe/virginie_daubersies.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/financeurs/Test_ajout_image.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/financeurs/acse.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/financeurs/banniere_financeurs-olg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/financeurs/banniere_financeurs.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/financeurs/banniere_financeurs.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/financeurs/direccte.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/financeurs/fse_action_cofinancee_de_presage_2013.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/financeurs/logo-FSE-et-Leurope-sengage.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/financeurs/logo_region_haut_de_france.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/financeurs/logo_region_nordpasdecalais.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/financeurs/old/banniere_financeurs.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/financeurs/ue_investit_dans_votre_avenir.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/financeurs/ue_investit_dans_votre_avenir.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/financeurs/ue_investit_dans_votre_avenir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icones/icones_apple/logo_e2c_Grand_Hainaut114.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icones/icones_apple/logo_e2c_Grand_Hainaut57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icones/icones_apple/logo_e2c_Grand_Hainaut72.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/quizz/questionnaire/false_q1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/quizz/questionnaire/false_q1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/quizz/questionnaire/false_q2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/quizz/questionnaire/false_q2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/quizz/questionnaire/false_q3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/quizz/questionnaire/false_q3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/quizz/questionnaire/false_q4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/quizz/questionnaire/false_q4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/quizz/questionnaire/false_q5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/quizz/questionnaire/false_q5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/quizz/questionnaire/false_q6.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/quizz/questionnaire/false_q6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/quizz/questionnaire/true_q1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/quizz/questionnaire/true_q1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/quizz/questionnaire/true_q2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/quizz/questionnaire/true_q2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/quizz/questionnaire/true_q3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/quizz/questionnaire/true_q3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/quizz/questionnaire/true_q4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/quizz/questionnaire/true_q4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/quizz/questionnaire/true_q5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/quizz/questionnaire/true_q5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/quizz/questionnaire/true_q6.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/quizz/questionnaire/true_q6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/Ecole_deuxieme_chance_grand_hainaut_voeux_2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/nouvelle_ecole_E2C_Grand_Hainaut_ouverture_a_fourmies.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/olympiades_noel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/parcours_gagnant_2016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/porte ouverte_ecole_de_la_dexieme_chance_grand_hainaut.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/porte_ouverte_anzin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/remise_diplome.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/signature_charte_regional_E2C_old.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/signature_convention_grdf_salon_des_maires.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/test_logo_fondation_edf.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/voeux.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/voeux_E2C_Grand_Hainaut_2017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/unnamed.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/bandeau_financeur.html" beforeDir="false" afterPath="$PROJECT_DIR$/includes/bandeau_financeur.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/includes/navigation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/param_social_button.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notice_vitrine_talent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quizz.php" beforeDir="false" afterPath="$PROJECT_DIR$/quizz.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selection_profil.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stagiaires.php" beforeDir="false" afterPath="$PROJECT_DIR$/stagiaires.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vitrine-batiment-h.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vitrine-batiment.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vitrine-commercial-h.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vitrine-commercial.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vitrine-hotellerie-h.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vitrine-hotellerie.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vitrine-industrie-h.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vitrine-industrie.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vitrine-sante-h.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vitrine-sante.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vitrine.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -315,6 +110,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/financeurs" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -330,7 +130,23 @@
       <workItem from="1653485660932" duration="2208000" />
       <workItem from="1653493308374" duration="595000" />
       <workItem from="1653635982211" duration="1197000" />
+      <workItem from="1653734397933" duration="681000" />
     </task>
+    <task id="LOCAL-00001" summary="🍱 update assets.">
+      <created>1653734688570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653734688570</updated>
+    </task>
+    <task id="LOCAL-00002" summary="✨ Change FSE Band">
+      <created>1653734896233</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653734896233</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -379,7 +195,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value=" update assets." />
-    <option name="LAST_COMMIT_MESSAGE" value=" update assets." />
+    <MESSAGE value="✨ Change FSE Band" />
+    <option name="LAST_COMMIT_MESSAGE" value="✨ Change FSE Band" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
