@@ -42,13 +42,13 @@
             <img src="images/slider/bandeau_taxe_apprentissage.jpg" title="Pensez à la Taxe d'Apprentissage 2019 !" alt="Pensez à la Taxe d'Apprentissage 2019 !" /><div class="orbit-caption"  style="font-size:0.965em;">Contribuez à la réussite de nos jeunes ! &nbsp;&nbsp;
 
             <li><img src="images/slider/defiscalisation_E2C_Grand_Hainaut.jpg" title="defiscalisation" alt="" /></li>-->
-            <li><img src="images/slider/remise-aca-anzin-2018.png" title="Remise des Attestations de Compétences Acquises Anzin 2018"
-                     alt="Image de la Remise des Attestations de Compétences Acquises Anzin 2018s"/>
-                <div class="orbit-caption">Remise des Attestations de Compétences Acquises Anzin 2018</div>
+            <li><img src="images/slider/remise-aca-anzin-2018.png" title="Remise des Attestations de Compétences Acquises Anzin"
+                     alt="Image de la Remise des Attestations de Compétences Acquises Anzin"/>
+                <div class="orbit-caption">Remise des Attestations de Compétences Acquises Anzin</div>
             </li>
-            <li><img src="images/slider/remise-aca-maubeuge-2018.png" title="Remise des Attestations de Compétences Acquises Maubeuge 2018"
-                     alt="Image de la Remise des Attestations de Compétences Acquises Anzin 2018"/>
-                <div class="orbit-caption">Remise des Attestations de Compétences Acquises Maubeuge 2018</div>
+            <li><img src="images/slider/remise-aca-maubeuge-2018.png" title="Remise des Attestations de Compétences Acquises Maubeuge"
+                     alt="Image de la Remise des Attestations de Compétences Acquises Anzin"/>
+                <div class="orbit-caption">Remise des Attestations de Compétences Acquises Maubeuge</div>
             </li>
             <li><img src="images/slider/parcours_gagnant_vers_emploi_2018.png" title="5ème édition du Parcours Gagnant Vers l'Emploi à Arenberg Creative Mine - Wallers"
                      alt="Image de la 5ème édition du Parcours Gagnant Vers l'Emploi à Arenberg Creative Mine - Wallers"/>
@@ -59,9 +59,9 @@
                 <div class="orbit-caption" style="font-size:0.965em;">Signature de la Charte de Coordination des 6 E2C de la Région Hauts-de-France</div>
             </li>
             <li><img src="images/slider/concours_citoyennete_e2c_Grand_Hainaut_vainqueur.jpg"
-                     title="Concours Citoyenneté du Réseau E2C France 2017 : l'E2C Grand Hainaut remporte le premier prix de l'épreuve collective à l'Assemblée Nationale !"
-                     alt="Photographie du Concours Citoyenneté du Réseau E2C France 2017 : l'E2C Grand Hainaut remporte le premier prix de l'épreuve collective à l'Assemblée Nationale !"/>
-                <div class="orbit-caption" style="font-size:0.965em;">Concours Citoyenneté du Réseau E2C France 2017 : l'E2C Grand Hainaut remporte le premier prix de
+                     title="Concours Citoyenneté du Réseau E2C France : l'E2C Grand Hainaut remporte le premier prix de l'épreuve collective à l'Assemblée Nationale !"
+                     alt="Photographie du Concours Citoyenneté du Réseau E2C France : l'E2C Grand Hainaut remporte le premier prix de l'épreuve collective à l'Assemblée Nationale !"/>
+                <div class="orbit-caption" style="font-size:0.965em;">Concours Citoyenneté du Réseau E2C France : l'E2C Grand Hainaut remporte le premier prix de
                     l'épreuve collective à l'Assemblée Nationale !
                 </div>
             </li>
@@ -77,13 +77,13 @@
             <li><img src="images/slider/signature_partenariat.jpg"
                      title="Signature de la convention de partenariat « DEFIS POUR L’EMPLO I » entre l’E2C Grand Hainaut et Toyota »"
                      alt="Signature de la convention de partenariat « DEFIS POUR L’EMPLO I » entre l’E2C Grand Hainaut et Toyota »"/>
-                <div class="orbit-caption" style="font-size:0.965em;">Signature de la convention de partenariat « DEFIS POUR L’EMPLO I » entre l’E2C Grand Hainaut et
+                <div class="orbit-caption" style="font-size:0.965em;">Signature de la convention de partenariat « DEFIS POUR L’EMPLOI » entre l’E2C Grand Hainaut et
                     Toyota »
                 </div>
             </li>
-            <li><img src="images/slider/3eme_e2ciade_usine_psa.jpg" title="3èmes E2Ciades Régionales Nord-Pas de Calais - Usine PSA 2013"
-                     alt="Photo des 3èmes E2Ciades Régionales Nord-Pas de Calais - Usine PSA 2013"/>
-                <div class="orbit-caption">3èmes E2Ciades Régionales Nord-Pas de Calais - Usine PSA 2013</div>
+            <li><img src="images/slider/3eme_e2ciade_usine_psa.jpg" title="3èmes E2Ciades Régionales Nord-Pas de Calais - Usine PSA"
+                     alt="Photo des 3èmes E2Ciades Régionales Nord-Pas de Calais - Usine PSA"/>
+                <div class="orbit-caption">3èmes E2Ciades Régionales Nord-Pas de Calais - Usine PSA</div>
             </li>
             <li><img src="images/slider/emission_radio_canal_FM.jpg" title="Emission radiophonique en direct à de l'Ecole de Maubeuge avec Canal FM"
                      alt="Photo de l'emission radiophonique en direct de l'Ecole de Maubeuge avec Canal FM"/>
